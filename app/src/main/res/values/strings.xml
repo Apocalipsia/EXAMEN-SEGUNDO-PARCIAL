@@ -1,13 +1,13 @@
 <resources>
-    <string name="app_name">MONGOBD</string>
-    <string name="service">MONGOBD</string>
-    <string name="createService">MONGOBD</string>
+    <string name="app_name" translatable="false">MONGOBD</string>
+    <string name="service" translatable="false">MONGOBD</string>
+    <string name="createService" translatable="false">MONGOBD</string>
 
-    <string name="BASE_POST_URL">MONGOBD</string>
-    <string name="">MONGOBD</string>
-    <string name="Apiconstans">MONGOBD</string>
-    <string name="marketService">MONGOBD</string>
-    <string name="BaseAdapter">MONGOBD</string>
+    <string name="BASE_POST_URL" translatable="false">MONGOBD</string>
+    <string name="Adaptador_imagenes" translatable="false">MONGOBD</string>
+    <string name="Apiconstans" translatable="false">MONGOBD</string>
+    <string name="marketService" translatable="false">MONGOBD</string>
+    <string name="BaseAdapter" translatable="false">MONGOBD</string>
 
 
 
