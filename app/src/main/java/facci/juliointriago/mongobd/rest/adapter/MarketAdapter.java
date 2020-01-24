@@ -26,10 +26,6 @@ public class MarketAdapter extends BaseAdapter implements MarketService{
 
 
 
-
-
-
-
 }
 
 
